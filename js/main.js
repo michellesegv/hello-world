@@ -1,0 +1,1 @@
+alert('¡Laboratoria te da la bienvenida!');
